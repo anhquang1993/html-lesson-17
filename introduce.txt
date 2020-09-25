@@ -1,0 +1,16 @@
+bài 17: Tìm hiểu Hyperlink Fragment và ứng dụng
+
+1 taọ Fragment id:
+    <a id="..." >content</a>
+
+    ex :
+    <h1><a id="index">mục lục</a></h1>
+    <ol type="1">
+        <li>html là gì?</li>
+        <li>lịch sử ra đời</li>
+        <li>làm quen với cú pháp html</li>
+    </ol>
+2 tạo liên kết :
+    <a href="#Fragment_id">content</a>
+ex :
+<a href="#index">về mục lục</a>
